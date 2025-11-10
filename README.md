@@ -4,4 +4,4 @@ Machine learning is a subset of Artificial Intelligence (AI) that enables comput
 It can be categorized into three types: Supervised Learning, Unsupervised Learning and Reinforcement Learning.
 
 ## My Projects:
-### Cars Sales Analysis 
+### Cars Sales Analysis (Cars_SellingPriceAnalysis)
